@@ -1,0 +1,168 @@
+2023-04-06 19:32:42.7978 Info Message Template Auto Format enabled
+2023-04-06 19:32:42.8050 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-06 19:32:42.8656 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-06 19:32:42.8656 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-06 19:32:42.8908 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=45, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-06 19:32:42.9041 Info Configuration initialized.
+2023-04-06 19:32:42.9041 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-06 19:47:29.2262 Info Message Template Auto Format enabled
+2023-04-06 19:47:29.2262 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-06 19:47:29.3020 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-06 19:47:29.3020 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-06 19:47:29.3275 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-06 19:47:29.3494 Info Configuration initialized.
+2023-04-06 19:47:29.3494 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 11:29:55.7863 Info Message Template Auto Format enabled
+2023-04-07 11:29:55.8149 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 11:29:55.9732 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 11:29:55.9732 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 11:29:56.0008 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 11:29:56.0154 Info Configuration initialized.
+2023-04-07 11:29:56.0264 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 11:33:47.2630 Info Message Template Auto Format enabled
+2023-04-07 11:33:47.2630 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 11:33:47.3322 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 11:33:47.3322 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 11:33:47.3631 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 11:33:47.3783 Info Configuration initialized.
+2023-04-07 11:33:47.3872 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 11:41:59.3066 Info Message Template Auto Format enabled
+2023-04-07 11:41:59.3066 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 11:41:59.3805 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 11:41:59.3822 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 11:41:59.4088 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 11:41:59.4222 Info Configuration initialized.
+2023-04-07 11:41:59.4311 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 12:27:05.1441 Info Message Template Auto Format enabled
+2023-04-07 12:27:05.1441 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 12:27:05.2172 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 12:27:05.2183 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 12:27:05.2441 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 12:27:05.2608 Info Configuration initialized.
+2023-04-07 12:27:05.2707 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 13:54:10.8488 Info Message Template Auto Format enabled
+2023-04-07 13:54:10.8581 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 13:54:11.2330 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 13:54:11.2330 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 13:54:11.2679 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 13:54:11.3053 Info Configuration initialized.
+2023-04-07 13:54:11.3219 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 16:30:16.3524 Info Message Template Auto Format enabled
+2023-04-07 16:30:16.3596 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 16:30:16.4203 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 16:30:16.4203 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 16:30:16.4528 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 16:30:16.4685 Info Configuration initialized.
+2023-04-07 16:30:16.4685 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 16:30:39.7890 Info Message Template Auto Format enabled
+2023-04-07 16:30:39.7964 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 16:30:39.8613 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 16:30:39.8613 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 16:30:39.9002 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 16:30:39.9152 Info Configuration initialized.
+2023-04-07 16:30:39.9253 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 16:30:52.4721 Info Message Template Auto Format enabled
+2023-04-07 16:30:52.4721 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 16:30:52.5819 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 16:30:52.5819 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 16:30:52.6316 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 16:30:52.6502 Info Configuration initialized.
+2023-04-07 16:30:52.6605 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 16:34:07.4745 Info Message Template Auto Format enabled
+2023-04-07 16:34:07.4814 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 16:34:07.5460 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 16:34:07.5460 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 16:34:07.5774 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 16:34:07.5922 Info Configuration initialized.
+2023-04-07 16:34:07.5922 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:11:35.4373 Info Message Template Auto Format enabled
+2023-04-07 18:11:35.4480 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:11:35.5184 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:11:35.5184 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:11:35.5457 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:11:35.5602 Info Configuration initialized.
+2023-04-07 18:11:35.5602 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:12:07.4422 Info Message Template Auto Format enabled
+2023-04-07 18:12:07.4493 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:12:07.5084 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:12:07.5084 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:12:07.5403 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:12:07.5403 Info Configuration initialized.
+2023-04-07 18:12:07.5638 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:13:08.9194 Info Message Template Auto Format enabled
+2023-04-07 18:13:08.9194 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:13:08.9880 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:13:08.9880 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:13:09.0151 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:13:09.0335 Info Configuration initialized.
+2023-04-07 18:13:09.0442 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:19:05.5154 Info Message Template Auto Format enabled
+2023-04-07 18:19:05.5154 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:19:05.5824 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:19:05.5824 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:19:05.6209 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:19:05.6209 Info Configuration initialized.
+2023-04-07 18:19:05.6450 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:20:08.6801 Info Message Template Auto Format enabled
+2023-04-07 18:20:08.6869 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:20:08.7514 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:20:08.7514 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:20:08.7798 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:20:08.7939 Info Configuration initialized.
+2023-04-07 18:20:08.7939 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:31:08.9095 Info Message Template Auto Format enabled
+2023-04-07 18:31:08.9095 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:31:08.9798 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:31:08.9798 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:31:09.0102 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:31:09.0273 Info Configuration initialized.
+2023-04-07 18:31:09.0356 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 18:31:45.3171 Info Message Template Auto Format enabled
+2023-04-07 18:31:45.3171 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 18:31:45.3849 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 18:31:45.3849 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 18:31:45.4079 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 18:31:45.4253 Info Configuration initialized.
+2023-04-07 18:31:45.4253 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 19:03:56.5663 Info Message Template Auto Format enabled
+2023-04-07 19:03:56.5663 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 19:03:56.6356 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 19:03:56.6356 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 19:03:56.6695 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 19:03:56.6855 Info Configuration initialized.
+2023-04-07 19:03:56.6940 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 19:04:11.5132 Info Message Template Auto Format enabled
+2023-04-07 19:04:11.5206 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 19:04:11.5824 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 19:04:11.5824 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 19:04:11.6068 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 19:04:11.6200 Info Configuration initialized.
+2023-04-07 19:04:11.6284 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 19:05:31.2362 Info Message Template Auto Format enabled
+2023-04-07 19:05:31.2430 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 19:05:31.3033 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 19:05:31.3033 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 19:05:31.3269 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 19:05:31.3419 Info Configuration initialized.
+2023-04-07 19:05:31.3509 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 19:05:48.3900 Info Message Template Auto Format enabled
+2023-04-07 19:05:48.3979 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 19:05:48.4626 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 19:05:48.4626 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 19:05:48.4882 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 19:05:48.4882 Info Configuration initialized.
+2023-04-07 19:05:48.5107 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 19:06:03.1425 Info Message Template Auto Format enabled
+2023-04-07 19:06:03.1513 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 19:06:03.2105 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 19:06:03.2105 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 19:06:03.2349 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 19:06:03.2496 Info Configuration initialized.
+2023-04-07 19:06:03.2587 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
+2023-04-07 19:06:31.7694 Info Message Template Auto Format enabled
+2023-04-07 19:06:31.7694 Info Loading assembly: NLog.Web.AspNetCore
+2023-04-07 19:06:31.8373 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2023-04-07 19:06:31.8373 Info Registered target NLog.Targets.FileTarget(Name=ownFile-web)
+2023-04-07 19:06:31.8610 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=41, FilePath=C:\Work\Paycaso\Paycaso.CardReader.Api\Paycaso.CardReader.Api\bin\Debug\net6.0\NLog.config
+2023-04-07 19:06:31.8749 Info Configuration initialized.
+2023-04-07 19:06:31.8837 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.1.3.1645. Product version: 5.1.3+0417773cb1619d0920efe3b3f8da9ea398266d30. GlobalAssemblyCache: False
