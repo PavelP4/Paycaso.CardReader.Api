@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Paycaso.CardReader.Application.Managers
+namespace Paycaso.CardReader.Application.Models
 {
-    public class CardReaderManager
+    public class CardDto
     {
+        public string CardId { get; set; }
     }
 }

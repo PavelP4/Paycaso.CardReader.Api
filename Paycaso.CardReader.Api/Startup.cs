@@ -11,6 +11,7 @@ using Paycaso.CardReader.Api.HostedServices;
 using Paycaso.CardReader.Api.Middlewares;
 using Microsoft.AspNetCore.Diagnostics;
 using System.Text.Json;
+using Paycaso.CardReader.Application.Queues;
 
 namespace Paycaso.CardReader.Api
 {
@@ -55,8 +56,6 @@ namespace Paycaso.CardReader.Api
 
             services.AddMediatR(config => config.RegisterServicesFromAssembly(typeof(GetCardQueryHandler).GetTypeInfo().Assembly));
 
-            services.AddSingleton<ICardReaderManager, CardReaderManager>();
-
             services.AddWindowsService(options =>
             {
                 options.ServiceName = "Paycaso.CardReader.Api";
@@ -64,6 +63,9 @@ namespace Paycaso.CardReader.Api
             services.AddHostedService<CardReaderHostedService>();
 
             services.AddSingleton(Configuration);
+
+            services.AddSingleton<CardReaderManager>();
+            services.AddSingleton<CardReaderCommandQueue>();
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
